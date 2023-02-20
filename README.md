@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Sameerm1024,
 You can call me Sameer
-- 👀 I’m interested in Programming,
-I'm a beginner
-- 🌱 I’m currently learning C,
-Have a good idea of Python
+- 👀 I’m interested in Programming, especially Web and App Development.
+- 🌱 I’m currently learning Java,
+and I am comfortable in Python and C.
 - 💞️ I’m looking to collaborate on Projects where I can help
 - 📫 Reach me at Ig: @sameerm_1024
 
